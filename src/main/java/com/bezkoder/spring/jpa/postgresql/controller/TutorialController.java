@@ -36,7 +36,7 @@ public class TutorialController {
 				tutorialRepository.findByTitleContaining(title).forEach(tutorials::add);
 
 			if (tutorials.isEmpty()) {
-				return ResponseEntity.ok(true);
+				return ResponseEntity.ok(null);
 			}
 
 			return ResponseEntity.ok(tutorials);
