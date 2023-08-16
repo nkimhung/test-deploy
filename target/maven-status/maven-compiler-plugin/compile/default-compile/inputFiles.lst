@@ -1,0 +1,5 @@
+C:\Users\Hung\test\test-deploy\src\main\java\com\bezkoder\spring\jpa\postgresql\SpringBootJpaPostgresqlApplication.java
+C:\Users\Hung\test\test-deploy\src\main\java\com\bezkoder\spring\jpa\postgresql\model\Config.java
+C:\Users\Hung\test\test-deploy\src\main\java\com\bezkoder\spring\jpa\postgresql\model\Tutorial.java
+C:\Users\Hung\test\test-deploy\src\main\java\com\bezkoder\spring\jpa\postgresql\repository\TutorialRepository.java
+C:\Users\Hung\test\test-deploy\src\main\java\com\bezkoder\spring\jpa\postgresql\controller\TutorialController.java
