@@ -39,7 +39,7 @@ public class TutorialController {
 				return ResponseEntity.ok(true);
 			}
 
-			return ResponseEntity.ok(true);
+			return ResponseEntity.ok(tutorials);
 		} catch (Exception e) {
 			return ResponseEntity.ok(true);
 		}
